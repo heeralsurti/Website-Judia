@@ -1,0 +1,462 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<title>JUDIA &#8211; Wear your shine!</title>
+<meta name="robots" content="noindex,nofollow" /><base target="_blank" /><link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//wordpress.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="JUDIA &raquo; Feed" href="https://judia984268898.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="JUDIA &raquo; Comments Feed" href="https://judia984268898.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1582709031h&ver=5.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJylU9tuwyAM/aERmrVbu4dp3xISN3VnIALTKH8/J7RSlV4WqUJC+HKOrYOt+07V3jE41japjlKLLuq+q71V0SLBMLOKOsY3fR8Wk4l1wI7Ri7X3RL5/ln/wJwjKJGMIBM0DwU36JXefiFREBgUNMrr2zKK366+VnI2WJq13usHI5/dDsjaJaSC0Egmgt8W2KLVJSI025OtfRWhCFYZ/elpMwwewS2gmVNRH4K4a4dXgE6s2YLO4kxlFqEatXhdXaMXpI8dcIct8Qrj94OWkcJJ8wSXHje/dNfPd0AulLnowWiB0kKvMvQ8L1P6sa1m8r4pSTSuROXKgyAJPn/9Cm1lhEt5rMebeZzs1TqL4bVfxmGGlUgUk4+f4GSzvuDFdgBiV3BaTVdPcTiv/Y7/Lj93n5n1XrlfHPyjNj5A=?cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+</style>
+<link rel='stylesheet' id='print-css-1-1' href='https://s0.wp.com/wp-content/themes/pub/varia/print.css?m=1571655471h&cssminify=yes' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s0.wp.com/_static/??-eJx9juEKwjAMhF/IGrYh+yU+S9vFGm2b0mYrvr2VgQwc+3dHvrsL1KQsR8EoIA8MWCDNBkzmkIQjFHl7PNtSTrBPLjqTBop2RVVNlsNfIMwq+dlRLFBpcigFcG5XfhEqrysIhuS1tNL9xU2BQ1aerRZq/22NuntNeY0SRBZq6fITR52NadN6ChSV0Vkt/RGd0Xh2TTpo1MZ+Q7dw7S7j2PXD0PfPD9v9gzM=?cssminify=yes' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='brompton-fonts-css'  href='https://fonts.googleapis.com/css?family=Lora%3A400%2C400i%2C700%2C700i%7CNunito+Sans%3A400%2C400i%2C700%2C700i%2C900%2C900i&#038;subset=latin%2Clatin-ext' media='all' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s0.wp.com/_static/??-eJxlztEOwiAMBdAfEru5qfPB+C2AyNBSyFpi/HtZskWTpS99OL238M7KJhJHAjK66BhyMWCmFLMkApYPur1l3sGfjEVlLD4Qg7YSEhk9/bYNX+2jICoO4pS7BwnklxQ4d5emTg8ek9HVzK1cy7UECwY1vTahy7fjejSDW7y2x+HUH4a2a55fpXRP+g==?cssminify=yes' type='text/css' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<script>
+var _previewSite = {"siteURL":"https:\/\/judia984268898.wordpress.com"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJx9kNEKwjAMRX/Irsic6IP4LV2XjcymqU3K8O/tw0SQOQiEJCeX3NglGYw+lAHEzjWeBfJrTc0sB7sHGMIpO4WGMH5gz1EhqqViUigTxroDmpx/GByzIzBAPQybzR0NKb34jEmRazVyCLz84vW8xKIEIm6CjSlxjwFMEcgViFqdjbzlUtLX0P/3rNSdbsfu0p27a9ue5jeV1n3i'></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1530132353h&cssminify=yes' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://judia984268898.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s0.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='https://wp.me/bJoxe' />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="JUDIA" />
+<meta property="og:description" content="Wear your shine!" />
+<meta property="og:url" content="https://judia984268898.wordpress.com/" />
+<meta property="og:site_name" content="JUDIA" />
+<meta property="og:image" content="https://judia984268898.files.wordpress.com/2020/03/cropped-crown-diamond-logo-icon-design-vector-22633506-4.jpg?w=200" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta property="fb:app_id" content="249643311490" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="search" type="application/opensearchdescription+xml" href="https://judia984268898.wordpress.com/osd.xml" title="JUDIA" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="pinterest" content="nopin" /><meta name="application-name" content="JUDIA" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Wear your shine!" /><meta name="msapplication-task" content="name=Write a post;action-uri=https://wordpress.com/post/judia984268898.wordpress.com;icon-uri=https://s0.wp.com/i/icons/post.ico" /><meta name="msapplication-task" content="name=Moderate comments;action-uri=https://judia984268898.wordpress.com/wp-admin/edit-comments.php?comment_status=moderated&amp;frame-nonce=fc618301fb;icon-uri=https://s0.wp.com/i/icons/comment.ico" /><meta name="msapplication-task" content="name=Upload new media;action-uri=https://judia984268898.wordpress.com/wp-admin/media-new.php?frame-nonce=fc618301fb;icon-uri=https://s0.wp.com/i/icons/media.ico" /><meta name="msapplication-task" content="name=Blog stats;action-uri=https://judia984268898.wordpress.com/wp-admin/index.php?page=stats&amp;frame-nonce=fc618301fb;icon-uri=https://s0.wp.com/i/icons/stats.ico" /><meta name="description" content="Wear your shine!" />
+<link rel="icon" href="https://judia984268898.files.wordpress.com/2020/03/cropped-crown-diamond-logo-icon-design-vector-22633506-4.jpg?w=32" sizes="32x32" />
+<link rel="icon" href="https://judia984268898.files.wordpress.com/2020/03/cropped-crown-diamond-logo-icon-design-vector-22633506-4.jpg?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://judia984268898.files.wordpress.com/2020/03/cropped-crown-diamond-logo-icon-design-vector-22633506-4.jpg?w=180" />
+<meta name="msapplication-TileImage" content="https://judia984268898.files.wordpress.com/2020/03/cropped-crown-diamond-logo-icon-design-vector-22633506-4.jpg?w=270" />
+</head>
+
+<body class="home blog logged-in wp-custom-logo wp-embed-responsive customizer-styles-applied hfeed image-filters-enabled highlander-enabled highlander-light">
+
+	
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+		<header id="masthead" class="site-header responsive-max-width">
+
+			<div class="site-branding">
+
+			<div class="site-logo"><a href="https://judia984268898.wordpress.com/" class="custom-logo-link" rel="home"><img width="184" height="151" src="https://judia984268898.files.wordpress.com/2020/03/cropped-crown-diamond-logo-icon-design-vector-22633506-e1585817579738.jpg" class="custom-logo" alt="JUDIA" srcset="https://judia984268898.files.wordpress.com/2020/03/cropped-crown-diamond-logo-icon-design-vector-22633506-e1585817579738.jpg 184w, https://judia984268898.files.wordpress.com/2020/03/cropped-crown-diamond-logo-icon-design-vector-22633506-e1585817579738.jpg?w=150&amp;h=123 150w" sizes="(max-width: 184px) 100vw, 184px" data-attachment-id="29" data-permalink="https://judia984268898.wordpress.com/cropped-crown-diamond-logo-icon-design-vector-22633506-e1585817579738-jpg/" data-orig-file="https://judia984268898.files.wordpress.com/2020/03/cropped-crown-diamond-logo-icon-design-vector-22633506-e1585817579738.jpg" data-orig-size="184,151" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cropped-crown-diamond-logo-icon-design-vector-22633506-e1585817579738.jpg" data-image-description="&lt;p&gt;https://judia984268898.files.wordpress.com/2020/03/cropped-crown-diamond-logo-icon-design-vector-22633506-e1585817579738.jpg&lt;/p&gt;
+" data-medium-file="https://judia984268898.files.wordpress.com/2020/03/cropped-crown-diamond-logo-icon-design-vector-22633506-e1585817579738.jpg?w=184" data-large-file="https://judia984268898.files.wordpress.com/2020/03/cropped-crown-diamond-logo-icon-design-vector-22633506-e1585817579738.jpg?w=184" /></a></div>
+								<h1 class="site-title"><a href="https://judia984268898.wordpress.com/" rel="home">JUDIA</a></h1>
+			
+				<p class="site-description">
+				Wear your shine!			</p>
+	</div><!-- .site-branding -->
+
+							<nav id="site-navigation" class="main-navigation" aria-label="Main Navigation">
+					<input type="checkbox" role="button" aria-haspopup="true" id="toggle" class="hide-visually">
+					<label for="toggle" id="toggle-menu" class="button">
+						Menu						<span class="dropdown-icon open">+</span>
+						<span class="dropdown-icon close">&times;</span>
+						<span class="hide-visually expanded-text">expanded</span>
+						<span class="hide-visually collapsed-text">collapsed</span>
+					</label>
+					<div class="menu-rings-container"><ul id="menu-rings" class="main-menu" aria-label="submenu"><li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a href="/">Home</a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7"><a href="https://judia984268898.wordpress.com/contact/">Contact</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://judia984268898.wordpress.com/contact/our-jewels/">Our Jewels.</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://judia984268898.wordpress.com/weddings/">WEDDINGS!</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://judia984268898.wordpress.com/team/">Team</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+			
+			
+		</header><!-- #masthead -->
+
+	
+	<div id="content" class="site-content">
+
+	<section id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+		
+<article id="post-3" class="post-3 post type-post status-publish format-standard hentry category-uncategorized entry">
+	<header class="entry-header responsive-max-width">
+		<h2 class="entry-title"><a href="https://judia984268898.wordpress.com/2020/02/25/the-journey-begins/" rel="bookmark">The Journey Begins</a></h2>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<p>Thanks for choosing us!</p>
+<blockquote>
+<p style="text-align:center;"><strong>SHOPAHOLICS PARADISE.</strong></p>
+<p style="text-align:center;"><strong>GET 25% OFF ON EVERY DEAL!</strong></p>
+</blockquote>
+
+
+<figure class="wp-block-image size-large is-resized is-style-default"><img data-attachment-id="55" data-permalink="https://judia984268898.wordpress.com/images/" data-orig-file="https://judia984268898.files.wordpress.com/2020/04/images.jpg" data-orig-size="200,252" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images" data-image-description="" data-medium-file="https://judia984268898.files.wordpress.com/2020/04/images.jpg?w=200" data-large-file="https://judia984268898.files.wordpress.com/2020/04/images.jpg?w=200" src="https://judia984268898.files.wordpress.com/2020/04/images.jpg?w=200" alt="" class="wp-image-55" width="532" height="671" srcset="https://judia984268898.files.wordpress.com/2020/04/images.jpg 200w, https://judia984268898.files.wordpress.com/2020/04/images.jpg?w=119 119w" sizes="(max-width: 532px) 100vw, 532px" /><figcaption><strong><em><span class="uppercase"><span style="text-decoration:underline;">SWARNA UTSAV, NEW ARRIVALS</span></span></em></strong></figcaption></figure>
+
+
+
+<div class="wp-block-jetpack-slideshow alignwide" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-59" data-id="59" src="https://judia984268898.files.wordpress.com/2020/04/img0.jpg?w=612" srcset="https://judia984268898.files.wordpress.com/2020/04/img0.jpg 612w, https://judia984268898.files.wordpress.com/2020/04/img0.jpg?w=150 150w, https://judia984268898.files.wordpress.com/2020/04/img0.jpg?w=300 300w" sizes="(max-width: 612px) 100vw, 612px" /><figcaption class="wp-block-jetpack-slideshow_caption gallery-caption">Indian Beauty portrait with jewelry in studio shot.</figcaption></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-60" data-id="60" src="https://judia984268898.files.wordpress.com/2020/04/img1.jpg?w=500" srcset="https://judia984268898.files.wordpress.com/2020/04/img1.jpg 500w, https://judia984268898.files.wordpress.com/2020/04/img1.jpg?w=150 150w, https://judia984268898.files.wordpress.com/2020/04/img1.jpg?w=300 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-61" data-id="61" src="https://judia984268898.files.wordpress.com/2020/04/img2.jpg?w=1024" srcset="https://judia984268898.files.wordpress.com/2020/04/img2.jpg?w=1024 1024w, https://judia984268898.files.wordpress.com/2020/04/img2.jpg?w=150 150w, https://judia984268898.files.wordpress.com/2020/04/img2.jpg?w=300 300w, https://judia984268898.files.wordpress.com/2020/04/img2.jpg?w=768 768w, https://judia984268898.files.wordpress.com/2020/04/img2.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-62" data-id="62" src="https://judia984268898.files.wordpress.com/2020/04/img3.jpg?w=646" srcset="https://judia984268898.files.wordpress.com/2020/04/img3.jpg 646w, https://judia984268898.files.wordpress.com/2020/04/img3.jpg?w=150 150w, https://judia984268898.files.wordpress.com/2020/04/img3.jpg?w=300 300w" sizes="(max-width: 646px) 100vw, 646px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-63" data-id="63" src="https://judia984268898.files.wordpress.com/2020/04/img4.jpg?w=700" srcset="https://judia984268898.files.wordpress.com/2020/04/img4.jpg 700w, https://judia984268898.files.wordpress.com/2020/04/img4.jpg?w=150 150w, https://judia984268898.files.wordpress.com/2020/04/img4.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+
+
+
+<h2>DISCOVER OUR POPULAR DESIGNS !</h2>
+
+
+
+<div class="wp-block-group alignfull"><div class="wp-block-group__inner-container">
+<p>RATE US NOW! ALREADY!</p>
+</div></div>
+
+
+<div class="wp-block-jetpack-rating-star is-style-outlined" style="text-align:center"><p>⭐⭐⭐⭐⭐</p><span style="display: none;"><span>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<path class="" fill="currentColor" stroke="currentColor" d="M12,17.3l6.2,3.7l-1.6-7L22,9.2l-7.2-0.6L12,2L9.2,8.6L2,9.2L7.5,14l-1.6,7L12,17.3z" />
+</svg>
+</span>
+<span>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<path class="" fill="currentColor" stroke="currentColor" d="M12,17.3l6.2,3.7l-1.6-7L22,9.2l-7.2-0.6L12,2L9.2,8.6L2,9.2L7.5,14l-1.6,7L12,17.3z" />
+</svg>
+</span></span><span style="display: none;"><span>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<path class="" fill="currentColor" stroke="currentColor" d="M12,17.3l6.2,3.7l-1.6-7L22,9.2l-7.2-0.6L12,2L9.2,8.6L2,9.2L7.5,14l-1.6,7L12,17.3z" />
+</svg>
+</span>
+<span>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<path class="" fill="currentColor" stroke="currentColor" d="M12,17.3l6.2,3.7l-1.6-7L22,9.2l-7.2-0.6L12,2L9.2,8.6L2,9.2L7.5,14l-1.6,7L12,17.3z" />
+</svg>
+</span></span><span style="display: none;"><span>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<path class="" fill="currentColor" stroke="currentColor" d="M12,17.3l6.2,3.7l-1.6-7L22,9.2l-7.2-0.6L12,2L9.2,8.6L2,9.2L7.5,14l-1.6,7L12,17.3z" />
+</svg>
+</span>
+<span>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<path class="" fill="currentColor" stroke="currentColor" d="M12,17.3l6.2,3.7l-1.6-7L22,9.2l-7.2-0.6L12,2L9.2,8.6L2,9.2L7.5,14l-1.6,7L12,17.3z" />
+</svg>
+</span></span><span style="display: none;"><span>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<path class="" fill="currentColor" stroke="currentColor" d="M12,17.3l6.2,3.7l-1.6-7L22,9.2l-7.2-0.6L12,2L9.2,8.6L2,9.2L7.5,14l-1.6,7L12,17.3z" />
+</svg>
+</span>
+<span>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<path class="" fill="currentColor" stroke="currentColor" d="M12,17.3l6.2,3.7l-1.6-7L22,9.2l-7.2-0.6L12,2L9.2,8.6L2,9.2L7.5,14l-1.6,7L12,17.3z" />
+</svg>
+</span></span><span style="display: none;"><span>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<path class="" fill="currentColor" stroke="currentColor" d="M12,17.3l6.2,3.7l-1.6-7L22,9.2l-7.2-0.6L12,2L9.2,8.6L2,9.2L7.5,14l-1.6,7L12,17.3z" />
+</svg>
+</span>
+<span>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<path class="" fill="currentColor" stroke="currentColor" d="M12,17.3l6.2,3.7l-1.6-7L22,9.2l-7.2-0.6L12,2L9.2,8.6L2,9.2L7.5,14l-1.6,7L12,17.3z" />
+</svg>
+</span></span></div>
+
+				<div
+			class="wp-block-newspack-blocks-homepage-articles  wpnbha show-image image-aligntop ts-4 is-3 "
+			style=""
+			>
+			<div data-posts>
+									<h2 class="article-section-title">
+						<span>JUDIA</span>
+					</h2>
+									<article data-post-id="3"
+						>
+		
+		<div class="entry-wrapper">
+			<h3 class="entry-title"><a href="https://judia984268898.wordpress.com/2020/02/25/the-journey-begins/" rel="bookmark">The Journey Begins</a></h3>						<p>Thanks for choosing us! SHOPAHOLICS PARADISE. GET 25% OFF ON EVERY DEAL! DISCOVER OUR POPULAR DESIGNS !</p>
+				<div class="entry-meta">
+					<a href="https://judia984268898.wordpress.com/author/heersurti7/"><img alt='' src='https://2.gravatar.com/avatar/27c004f221ddaa5d9ba9d63d02b57825?s=48&#038;d=identicon&#038;r=G' class='avatar avatar-48' height='48' width='48' /></a>						<span class="byline">
+							by <span class="author vcard"><a class="url fn n" href="https://judia984268898.wordpress.com/author/heersurti7/">Heeral Surti</a></span>						</span><!-- .author-name -->
+						<time class="entry-date published" datetime="2020-02-25T11:57:37+00:00">February 25, 2020</time><time class="updated" datetime="2020-04-09T09:53:57+00:00">April 9, 2020</time>				</div><!-- .entry-meta -->
+					</div><!-- .entry-wrapper -->
+	</article>
+
+					</div>
+			
+		</div>
+				
+
+
+<p></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer responsive-max-width">
+		<span class="byline"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted by</span><span class="author vcard"><a class="url fn n" href="https://judia984268898.wordpress.com/author/heersurti7/">Heeral Surti</a></span></span><span class="posted-on"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><path id="a" d="M0 0h24v24H0V0z"></path></defs><clipPath id="b"><use xlink:href="#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.2 14.2L11 13V7h1.5v5.2l4.5 2.7-.8 1.3z"></path></svg><a href="https://judia984268898.wordpress.com/2020/02/25/the-journey-begins/" rel="bookmark"><time class="entry-date published" datetime="2020-02-25T11:57:37+00:00">February 25, 2020</time><time class="updated" datetime="2020-04-09T09:53:57+00:00">April 9, 2020</time></a></span><span class="cat-links"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted in</span><a href="https://judia984268898.wordpress.com/category/uncategorized/" rel="category tag">Uncategorized</a></span><span class="comments-link"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><a href="https://judia984268898.wordpress.com/2020/02/25/the-journey-begins/#respond">Leave a comment<span class="screen-reader-text"> on The Journey Begins</span></a></span><span class="edit-link"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><a class="post-edit-link" href="https://wordpress.com/post/judia984268898.wordpress.com/3">Edit <span class="screen-reader-text">The Journey Begins</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-${ID} -->
+
+		</main><!-- .site-main -->
+	</section><!-- .content-area -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+		
+	<aside class="widget-area responsive-max-width" role="complementary" aria-label="Footer">
+		<section id="authors-3" class="widget widget_authors"><h2 class="widget-title"></h2><ul><li><a href="https://judia984268898.wordpress.com/author/heersurti7/"> <img alt='' src='https://2.gravatar.com/avatar/27c004f221ddaa5d9ba9d63d02b57825?s=48&#038;d=identicon&#038;r=G' class='avatar avatar-48' height='48' width='48' /> <strong>Heeral Surti</strong></a><ul><li><a href="https://judia984268898.wordpress.com/2020/02/25/the-journey-begins/">The Journey Begins</a></li></ul></li></ul></section>	</aside><!-- .widget-area -->
+
+				<div class="site-info">
+										<a class="site-name" href="https://judia984268898.wordpress.com/" rel="home">JUDIA</a><span class="comma">,</span>
+						<a href="https://wordpress.com/?ref=footer_website" rel="nofollow">Create a free website or blog at WordPress.com.</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+<!--  -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery(document).ready( function($) {
+			function doFollowingHover() {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				$('#wp-admin-bar-follow > a').bind( 'mouseover.unfollow', function() {
+
+					$(this).html( "Unfollow" ).parent( 'li' ).addClass( 'unfollow' );
+				});
+				$('#wp-admin-bar-follow > a').bind( 'mouseout.unfollow', function() {
+					$(this).html( "Following" ).parent( 'li' ).removeClass( 'unfollow' );
+				});
+			}
+							doFollowingHover();
+			
+			$('#wp-admin-bar-follow > a').click( function( e ) {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				e.preventDefault();
+
+				var link = $( this ), li = $( '#wp-admin-bar-follow' ), timeout = 0;
+
+				if ( li.hasClass( 'subscribed' ) ) {
+					li.removeClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Follow" );
+
+					$('body').append( $( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble' );
+
+					var action = 'ab_unsubscribe_from_blog';
+				} else {
+					li.addClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Following" );
+
+						var left = 131 - link.width();
+						li.append( $( 'div.wpcom-bubble' ).css( { left: '-' + left + 'px' } ) );
+						$( 'div.bubble-txt', 'div.wpcom-bubble' ).html( "New posts from this blog will now appear in \u003Ca target=\u0022_blank\u0022 href=\u0022http:\/\/wordpress.com\/\u0022\u003Eyour reader\u003C\/a\u003E. You can manage email alerts from your \u003Ca target=\u0022_blank\u0022 href=\u0022http:\/\/wordpress.com\/following\/edit\/\u0022\u003Esubscriptions page\u003C\/a\u003E." );
+
+						$( 'div.wpcom-bubble.action-bubble' ).addClass( 'fadein' );
+
+						setTimeout( function() {
+							$('body').on( 'click.bubble touchstart.bubble', function(e) {
+								if ( !$(e.target).hasClass('wpcom-bubble') && !$(e.target).parents( 'div.wpcom-bubble' ).length )
+									hideBubble();
+							});
+							setTimeout( hideBubble, 15000 );
+						}, 500 );
+
+					var action = 'ab_subscribe_to_blog';
+					$('#wp-admin-bar-follow > a').bind( 'mouseout.shift', function() {
+						doFollowingHover();
+						$(this).unbind( '.shift' );
+					});
+				}
+
+				var nonce = link.attr( 'href' ).split( '_wpnonce=' );
+				nonce = nonce[1];
+
+				$.post( "https:\/\/judia984268898.wordpress.com\/wp-admin\/admin-ajax.php", {
+					'action': action,
+					'_wpnonce': nonce,
+					'source': 'admin_bar',
+					'blog_id': 173358772				});
+			});
+		});
+	/* ]]> */
+	</script>
+<script src='//0.gravatar.com/js/gprofiles.js?ver=202015y'></script>
+<script>
+var WPGroHo = {"my_hash":"27c004f221ddaa5d9ba9d63d02b57825"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-27c004f221ddaa5d9ba9d63d02b57825">
+	</div>
+	</div>
+<script>
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/judia984268898.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/judia984268898.wordpress.com\/wp-login.php?action=logout&_wpnonce=e4dc265acc","homeURL":"https:\/\/judia984268898.wordpress.com\/","postID":"3","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"1","isJetpack":"","text_direction":"ltr"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1573483029j'></script>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+							<option value="173358772">JUDIA</option>
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="173358772" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://judia984268898.wordpress.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="JUDIA" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="fbda776d2a" /><input type="hidden" name="_wp_http_referer" value="/?theme_preview=true&amp;iframe=true&amp;frame-nonce=fc618301fb" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<link rel='stylesheet' id='all-css-0-3' href='https://s0.wp.com/_static/??-eJyVz9EKwjAMBdAfsgaZhfkgfop0Wa3durYkqcW/d8IqvomPuZdzIVCzwhTFRoEcivORwZX1HCw5NYSEM8NkJRucVTDPVEQ58iNs1Y1WvEfmHXwtLUW1sc3C1UdsiIMfLd9ThYe39V9NRnx0isXQT4+GUmEbPi+04I0uy/mg+67vjietpxfs1GOm?cssminify=yes' type='text/css' media='all' />
+<script>
+var wpNotesArgs = {"cacheBuster":"@automattic\/jetpack-blocks@13.1.0-5015-gd57f427480","iframeUrl":"https:\/\/widgets.wp.com\/notifications\/","iframeAppend":"2","iframeScroll":"no","wide":"1"};
+</script>
+<script>
+var actionbardata = {"siteID":"173358772","siteName":"JUDIA","siteURL":"http:\/\/judia984268898.wordpress.com","icon":"<img alt='' src='https:\/\/judia984268898.files.wordpress.com\/2020\/03\/cropped-crown-diamond-logo-icon-design-vector-22633506-4.jpg?w=50' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"1","canCustomizeSite":"1","isFollowing":"1","themeSlug":"pub\/brompton","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fjudia984268898.wordpress.com%2F2020%2F02%2F25%2Fthe-journey-begins%2F&signup_flow=account","themeURL":"https:\/\/wordpress.com\/theme\/brompton\/","xhrURL":"https:\/\/judia984268898.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"9d50bb765a","isSingular":"","isFolded":"","isLoggedIn":"1","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"3f3272b424\" \/>","referer":"https:\/\/judia984268898.wordpress.com\/?theme_preview=true&iframe=true&frame-nonce=fc618301fb","canFollow":"1","feedID":"104881431","statusMessage":"","customizeLink":"https:\/\/judia984268898.wordpress.com\/wp-admin\/customize.php?frame-nonce=fc618301fb&url=https%3A%2F%2Fjudia984268898.wordpress.com%2F%3Ftheme_preview%3Dtrue%26iframe%3Dtrue%26frame-nonce%3Dfc618301fb","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get help setting up your theme","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fjudia984268898.wordpress.com%2F2020%2F02%2F25%2Fthe-journey-begins%2F&signup_flow=account\">Log in now.<\/a>","stats":"Stats"}};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJydUe1uwjAMfKGF8LWN/Zh4ljQxzJDYVey029svpYBQhZiGIkXW3fn8ZfvWeCYFUnsQG6BDD+337CAvtlJIPpYAcuJQ1HZAgfNAtRx/dhjjLCFd5BenNpY9kthdidEIKhgIqEh7MzL2ffUxr29tPafENHqP8fNeTeQKsqiYGvrjuWOE/nlPqANrzSukgXs6G0/QqX0q5lKhx7AHFQulsnxEMNH1ViG10SlM8HtbLxQgi+cMt4u+VTTOHxsmuHeISqci6vwXPGiSeGjl9JvxCKZb/ql3oRY0jcuPxVeZTU4U8pDAHeSMQ/9X7J8OmuvU8ijJKzINSdeoqrfpc/G6eVsvN4vV/PALJi8aLg=='></script>
+<script type='text/javascript'>
+( 'fetch' in window ) || document.write( '<script src="https://s0.wp.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?m=1573572739h&#038;ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://s0.wp.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?m=1540208548h&#038;ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://s0.wp.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?m=1585663916h&#038;ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://s0.wp.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?m=1585663916h&#038;ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://s0.wp.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?m=1550600082h&#038;ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://s0.wp.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?m=1540208548h&#038;ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script src='https://s0.wp.com/wp-includes/js/dist/vendor/lodash.min.js?m=1573572739h&#038;ver=4.17.15'></script>
+<script>
+window.lodash = _.noConflict();
+</script>
+<script>
+var Jetpack_Block_Assets_Base_Url = "https:\/\/s0.wp.com\/wp-content\/mu-plugins\/jetpack\/_inc\/blocks\/";
+</script>
+<script>
+var Jetpack_Block_Assets_Base_Url = "https:\/\/s0.wp.com\/wp-content\/mu-plugins\/jetpack\/_inc\/blocks\/";
+</script>
+<script>
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"1","lang":"en","ajaxurl":"https:\/\/judia984268898.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"6c4b080d7a","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/judia984268898.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fjudia984268898.wordpress.com%2F2020%2F02%2F25%2Fthe-journey-begins%2F","blog_id":"173358772","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<p id=\"jp-carousel-commenting-as\">Commenting as Heeral Surti<\/p>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=173358772&v=wpcom&tz=0&user=1&priv=1&user_id=180793973&subd=judia984268898","is_public":"-1","reblog_enabled":""};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJydzE0OgjAQhuELWSYEEVwYj2JKOykD/UunFb293bAzMbicb/K8sEWhgs/oM0RbDHkGU+o5YTL1kxCGZmhamApZDdSOHshrfDULn+AY1sGJhFK//y4gKxlRzNnZ7w1XxJ5ZMEepVniQVzDZoFYGtqSR57DBk3A7iJPM5I3gLNMvrmQKhdHuHbEP1dzdre3HS9eN52u/fAAb4ov8'></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
